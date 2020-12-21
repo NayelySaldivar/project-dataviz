@@ -33,20 +33,18 @@ The following deliverables should be pushed to your Github repo for this chapter
 * **Use the tools in your tool kit** - your knowledge of the different types of visualizations and when to use them should come in handy with this assignment.
 * **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
 
-## Project Feedback + Evaluation
+## Bases de datos
 
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
+Por el gran tamaño de las bases estas fueron guardadadas en google drive.
 
-* __Creativity__: Did you add a personal spin or creative element into your project submission? Did you incorporate domain knowledge or unique perspective into your analysis.
+La siguiente liga incluye las bases en crudo dentro de un zip y las bases ya trabajadas en csv:
+https://drive.google.com/drive/folders/115_ZmI6tIrBlVRyfpRdbRzy232njNdd6?usp=sharing
 
-* __Code Quality__: Did you follow code style guidance and best practices covered in class?
+## Fuentes de Información
 
-* __Total__: Your instructors will give you a total score on your project between:
+http://insideairbnb.com/about.html
+https://www.airbnb.mx/
 
-    **Score**|**Expectations**
-    -----|-----
-    0|Does not meet expectations
-    1|Meets expectations, good job!
-    2|Exceeds expectations, you wonderful creature, you!
 
-This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
+
+
